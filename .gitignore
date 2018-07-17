@@ -1,8 +1,2 @@
-dist
-.DS*
-cabal-dev
-dist
-*.swp
-TAGS
-poll-example/log
+stack.yaml
 .stack-work/

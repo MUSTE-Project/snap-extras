@@ -1,0 +1,16 @@
+resolver: lts-12.0
+
+packages:
+- .
+
+extra-deps:
+- snap-1.1.1.0
+- heist-1.1
+- map-syntax-0.3
+- pwstore-fast-2.4.4
+- xmlhtml-0.2.5.2
+- digestive-functors-0.8.3.0
+- digestive-functors-heist-0.8.8.0
+- digestive-functors-snap-0.7.0.0
+
+allow-newer: true
